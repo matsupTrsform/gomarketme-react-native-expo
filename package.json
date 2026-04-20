@@ -1,12 +1,12 @@
 {
-  "name": "gomarketme-react-native-expo",
+  "name": "woozit-gomarketme-react-native-expo",
   "version": "4.0.2",
   "description": "Affiliate Marketing for Expo-Based iOS and Android Apps.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoMarketMe/gomarketme-react-native-expo.git"
+    "url": "https://github.com/matsupTrsform/gomarketme-react-native-expo"
   },
   "scripts": {
     "build": "tsc",
@@ -27,7 +27,7 @@
     "monetization",
     "influencers"
   ],
-  "author": "GoMarketMe",
+  "author": "Matsup Trsform",
   "license": "MIT",
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.2.0",
